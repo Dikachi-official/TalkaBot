@@ -18,30 +18,29 @@ This is the frontend of a Fullstack AI Chat Application built with React and Tai
 
 ```bash
 git clone https://github.com/Dikachi-official/TalkaBot.git
-
 cd frontend
-````
+
 
 ### 2. Install Dependencies
 
 ```bash
 npm install
-```
+
 
 
 ### 3. Run the Development Server
 
 ```bash
 npm run dev
-```
+
 
 Visit: `http://localhost:5173`
 
+````
 
 
 
-
-2. Setup the backend (Django)
+## 2. Setup the backend (Django)
 
 ```bash
 cd backend
